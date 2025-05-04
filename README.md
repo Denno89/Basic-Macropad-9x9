@@ -6,6 +6,5 @@
 - Encoder KY-040
 
 # Schematic:
-git add images/Schematic.jpg
-git commit -m "Aggiunta immagine al README"
-git push
+![Macropad Arduino](images/Schematic.jpg)
+
