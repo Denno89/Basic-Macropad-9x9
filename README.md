@@ -6,5 +6,5 @@
 - Encoder KY-040
 
 # Schematic:
-![Macropad Arduino](images/Schematic.jpg)
+![Macropad-arduino](images/Schematic.jpg)
 
