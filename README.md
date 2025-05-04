@@ -5,7 +5,7 @@ No custom PCB was used in this build. All switches are wired directly to an Ardu
 
 # Components:
 - 1xArduino Pro Micro
-- 9xCerry MX Silver (no RGB)
+- 9xCerry MX Silver (no RGB light)
 - 1xEncoder KY-040
 
 # Schematic:
