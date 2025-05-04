@@ -6,3 +6,4 @@
 - Encoder KY-040
 
 # Schematic:
+![Schema del Macropad](Schematic.jpg)
