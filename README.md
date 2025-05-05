@@ -24,7 +24,7 @@ No custom PCB was used in this build. All switches are wired directly to an Ardu
 - Pin 3
 - Pin 4
 
-## Encoder:
+### Encoder:
 - GND
 - VCC
 - SW Pin 15
