@@ -9,4 +9,4 @@ No custom PCB was used in this build. All switches are wired directly to an Ardu
 - 1x Encoder KY-040
 
 # Schematic:
-![Schema del Macropad]()
+![Schema del Macropad](Schematic.jpg)
