@@ -11,7 +11,7 @@ No custom PCB was used in this build. All switches are wired directly to an Ardu
 # Schematic:
 ![Schema del Macropad](Schematic.jpg)
 
-#Complete Wiring Summary:
+# Complete Wiring Summary:
 
 # Cherry MX:
 - Cherry MX Pin 8
