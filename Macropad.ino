@@ -10,6 +10,7 @@
 // Switch Pins (in order according to the new layout)
 const int numKeys = 9;
 const int keyPins[numKeys] = {8, 9, 10, 5, 6, 7, 2, 3, 4};
+// Customize with the keys you need
 const char keyChars[numKeys] = {'l', 'c', 'x', 'f', 'k', 't', 'e', 'u', 'o'};
 
 Encoder encoder(ENC_CLK, ENC_DT);
