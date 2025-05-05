@@ -14,15 +14,15 @@ No custom PCB was used in this build. All switches are wired directly to an Ardu
 # Complete Wiring Summary:
 
 # Cherry MX:
-- Cherry MX Pin 8
-- Cherry MX Pin 9
-- Cherry MX Pin 10
-- Cherry MX Pin 5
-- Cherry MX Pin 6
-- Cherry MX Pin 7
-- Cherry MX Pin 2
-- Cherry MX Pin 3
-- Cherry MX Pin 4
+- Pin 8
+- Pin 9
+- Pin 10
+- Pin 5
+- Pin 6
+- Pin 7
+- Pin 2
+- Pin 3
+- Pin 4
 
 # Encoder:
 - GND
