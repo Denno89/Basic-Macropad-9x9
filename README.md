@@ -4,7 +4,7 @@ No PCB was used in this build all switches are wired directly to the Arduino, as
 Above, you'll find two Arduino code files. These are two completely different sketches:
 - One allows you to map standard keyboard characters (alphanumeric keys).
 
-- The other supports keyboard shortcuts, in case you need more advanced macro functionality.
+- The other also supports standard alphanumeric keys, but additionally allows you to define more advanced keyboard shortcuts and macros, making it ideal for more complex workflows.
 
 # Components:
 - 1x Arduino Pro Micro
