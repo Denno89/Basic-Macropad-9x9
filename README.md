@@ -1,7 +1,10 @@
 # Basic macropad w Arduino
-This 3x3 macropad was built to keep my most used Fusion 360 shortcuts within easy reach. The rotary encoder is programmed to control zoom in and out, while its push-button function is set to "undo" (CTRL+Z).
-This is not the final version. I'm already planning an upgraded model with more keys and multiple profiles but this prototype has already proven to be very useful in my personal projects.
-No custom PCB was used in this build. All switches are wired directly to an Arduino, as shown in the photo below. The enclosure was fully designed and 3D printed by me, and it can be found here: (add link)
+I built this 9x9 macropad as a simple DIY project to keep my most-used Fusion 360 shortcuts easily accessible. The rotary encoder is programmed to control zoom in and out, while pressing it acts as an "undo" function (CTRL+Z).
+No PCB was used in this build — all switches are wired directly to the Arduino, as shown in the photo below. The enclosure for the electronics was fully designed and 3D printed by me. You can find the STL files here: (insert link).
+Above, you'll find two Arduino code files. These are two completely different sketches:
+- One allows you to map standard keyboard characters (alphanumeric keys).
+
+- The other supports keyboard shortcuts, in case you need more advanced macro functionality.
 
 # Components:
 - 1x Arduino Pro Micro
