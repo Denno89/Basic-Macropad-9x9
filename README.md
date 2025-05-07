@@ -21,7 +21,9 @@ The only downside of this project is that if you want to change the assigned key
 ### Cherry MX:
 
 [Pin8]    [Pin9]    [Pin10]
+
 [Pin5]    [Pin6]    [Pin7]
+
 [Pin2]    [Pin3]    [Pin4]
 
 ### Encoder:
