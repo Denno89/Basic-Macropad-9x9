@@ -19,15 +19,10 @@ The only downside of this project is that if you want to change the assigned key
 # Complete Wiring Summary:
 
 ### Cherry MX:
-- Pin 8
-- Pin 9
-- Pin 10
-- Pin 5
-- Pin 6
-- Pin 7
-- Pin 2
-- Pin 3
-- Pin 4
+
+[Pin8]    [Pin9]    [Pin10]
+[Pin5]    [Pin6]    [Pin7]
+[Pin2]    [Pin3]    [Pin4]
 
 ### Encoder:
 - GND
