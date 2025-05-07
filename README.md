@@ -6,6 +6,8 @@ Above, you'll find two Arduino code files. These are two completely different sk
 
 - The other is a more advanced version that supports both alphanumeric keys and more complex macros, offering greater flexibility if you need to use multiple-key shortcuts or custom sequences.
 
+The only downside of this project is that if you want to change the assigned keys, you'll need to modify the Arduino code and upload the updated sketch to the board.
+
 # Components:
 - 1x Arduino Pro Micro
 - 9x Cerry MX (no RGB light)
