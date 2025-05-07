@@ -9,7 +9,7 @@ Above, you'll find two Arduino code files. These are two completely different sk
 The only downside of this project is that if you want to change the assigned keys, you'll need to modify the Arduino code and upload the updated sketch to the board.
 
 # Components:
-- 1x Arduino Pro Micro
+- 1x Binghe Pro Micro 32u4
 - 9x Cerry MX (no RGB light)
 - 1x Encoder KY-040
 
